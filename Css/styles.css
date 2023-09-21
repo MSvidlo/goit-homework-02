@@ -1,4 +1,4 @@
-body{color:#434455)font-family:'Roboto',
+body{color:#434455; font-family:'Roboto',
     sans-serif; background-color: #FFF;}
 ul{list-style: none;}
 a{text-decoration: none;}
@@ -28,6 +28,7 @@ a{text-decoration: none;}
 
 .contacts-item-link {color:#434455;
     font-size: 16px;
+    font-weight: 400;
     line-height:1.5;
     letter-spacing: 0.02em;}
 
@@ -58,6 +59,7 @@ a{text-decoration: none;}
 
 .advantages-item-description {color:#434455;
     font-size: 16px;
+    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
@@ -79,6 +81,7 @@ a{text-decoration: none;}
 
 .section-team-text {color:#434455;
     text-align: center;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
@@ -99,6 +102,7 @@ a{text-decoration: none;}
 
 .section-portfolio-text {color:#434455;
     font-size: 16px;
+    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
@@ -122,5 +126,6 @@ a{text-decoration: none;}
 
 .footer-text {color:#F4F4FD;
     font-size: 16px;
+    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;}
