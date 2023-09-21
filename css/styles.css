@@ -18,17 +18,20 @@ a{text-decoration: none;}
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;}
-.menu-item:hover {
-        color: #404bbf;}
-.menu-item:focus {
-        color: #404bbf;
-    }
+
 
 .menu-item { color:#2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing:0.02em;}
+.menu-item:hover {
+    color: #404bbf;
+}
+
+.menu-item:focus {
+    color: #404bbf;
+}
 
 
 .contacts-item-link {color:#434455;
@@ -46,15 +49,14 @@ a{text-decoration: none;}
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;}
-
-.button {color:#FFF;background-color: #4D5AE5;
-    color: #FFF;
+.button {color:#FFF;
+    background-color:#4D5AE5;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    font-family: "Roboto", sans-serif}
+    font-family: "Roboto", sans-serif;}
 .button:hover {color: #404bbf;
 }
 .button:focus {color: #404bbf;
