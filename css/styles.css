@@ -71,7 +71,8 @@ a{text-decoration: none;}
     line-height: 1.5;
     font-style: normal;
     letter-spacing: 0.02em;}
-
+.section-team{background-color: #F4F4FD}
+.section-team-cards {background-color: #FFFFFF}
 .section-team-title {color:#2E2F42;
     text-align: center;
     font-size: 36px;
