@@ -1,4 +1,4 @@
-body{color:#434455; font-family:'Roboto',
+body{font-family:'Roboto',
     sans-serif; background-color: #FFF;}
 ul{list-style: none;}
 a{text-decoration: none;}
@@ -54,6 +54,7 @@ a{text-decoration: none;}
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
+        font-style: normal;
         letter-spacing: 0.02em;
     }
 
@@ -61,6 +62,7 @@ a{text-decoration: none;}
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
+    font-style: normal;
     letter-spacing: 0.02em;}
 
 .section-team-title {color:#2E2F42;
@@ -77,6 +79,7 @@ a{text-decoration: none;}
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    font-style: normal;
     letter-spacing: 0.02em;}
 
 .section-team-text {color:#434455;
@@ -84,6 +87,7 @@ a{text-decoration: none;}
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
+    font-style: normal;
     letter-spacing: 0.02em;}
 
 .section-portfolio-title {color:#2E2F42;
@@ -98,12 +102,14 @@ a{text-decoration: none;}
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    font-style: normal;
     letter-spacing: 0.02em;}
 
 .section-portfolio-text {color:#434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
+    font-style: normal;
     letter-spacing: 0.02em;}
 
 .footer {background:#2E2F42;}
@@ -113,6 +119,7 @@ a{text-decoration: none;}
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
+    font-style: normal;
     letter-spacing: 0.03em;
     text-transform: uppercase;}
 
