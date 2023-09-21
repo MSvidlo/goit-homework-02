@@ -64,10 +64,8 @@ a{text-decoration: none;}
     letter-spacing: 0.04em;
     cursor: pointer;
     }
-.button:hover {color: #404bbf;
-}
-.button:focus {color: #404bbf;
-}
+.button:hover {color: #404bbf;}
+.button:focus {color: #404bbf;}
 .advantages-item-name {
         color: #2E2F42;
         font-family: "Roboto", sans-serif;
