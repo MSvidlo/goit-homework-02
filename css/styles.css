@@ -48,7 +48,7 @@ a{text-decoration: none;}
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    cursor:pointer;}
+    cursor:pointer; font-family: "Roboto", sans-serif}
 
 .advantages-item-name {
         color: #2E2F42;
