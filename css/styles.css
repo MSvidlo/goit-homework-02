@@ -9,6 +9,7 @@ a{text-decoration: none;}
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;}
+.contacts {font-style: normal}
 
 .header-studio {color: #2E2F42;
     font-family: "Raleway", sans-serif;
@@ -22,15 +23,15 @@ a{text-decoration: none;}
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing:0.02em;}
 
 
 .contacts-item-link {color:#434455;
     font-size: 16px;
     font-weight: 400;
     line-height:1.5;
-    font-style: normal
-    letter-spacing: 0.02em;}
+    font-style: normal;
+    letter-spacing:0.02em;}
 
 .section-one {background-color: #2E2F42;}
 
@@ -49,9 +50,15 @@ a{text-decoration: none;}
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor:pointer; font-family: "Roboto", sans-serif}
-
+.button:hover {
+    color: #404bbf;
+}
+.button:focus {
+    color: #404bbf;
+}
 .advantages-item-name {
         color: #2E2F42;
+        font-family: "Roboto", sans-serif;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
