@@ -1,0 +1,98 @@
+body{font-family:'Roboto',
+    sans-serif;}
+ul{list-style: none;}
+a{text-decoration: none;}
+.page-header {}
+
+.header-logo {color:#4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;}
+
+.header-studio {color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;}
+
+.menu-item {font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;}
+
+.contacts {}
+
+.contacts-item-link {color:#434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height:1.5;
+    letter-spacing: 0.02em;}
+
+.section-one {}
+
+.section-one-title {}
+
+.section-one-button {}
+
+.button {}
+
+.section-adwentages {}
+
+.section-adwentages-title {}
+
+.section-advantages-list {}
+
+.advantages-list-item-strategy {}
+
+.advantages-item-name {}
+
+.advantages-item-description {}
+
+.advantages-item-punctuality {}
+
+.advantages-item-diligence {}
+
+.advantages-item-technologies {}
+
+.section-team {}
+
+.section-team-title {}
+
+.section-team-cards {}
+
+.section-team-img {}
+
+.section-team-text {}
+
+.section-portfolio {}
+
+.section-portfolio-title {}
+
+.section-portfolio-list {}
+
+.section-portfolio-list-item {}
+
+.section-portfolio-img {}
+
+.section-portfolio-subtitle {}
+
+.section-portfolio-text {}
+
+.footer {}
+
+.footer-logo {}
+
+.footer-studio {}
+
+.footer-text {}
